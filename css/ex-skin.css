@@ -1,0 +1,84 @@
+/* Color */
+.color-skin-* a:hover,
+.color-skin-* a:focus, 
+.color-skin-* #masthead .navbar-brand span,
+.color-skin-* #masthead .navbar-default .navbar-nav > li > a:hover, .color-skin-* #masthead .navbar-default .navbar-nav > li > a:focus,
+.color-skin-* #masthead .dropdown-menu > li > a:hover, .color-skin-* #masthead .dropdown-menu > li > a:focus,
+.color-skin-* #masthead .navbar-default .navbar-nav > .active > a, .color-skin-* #masthead .navbar-default .navbar-nav > .active > a:hover, .color-skin-* #masthead .navbar-default .navbar-nav > .active > a:focus,
+.color-skin-* .adv-color.btn-bordered,
+.color-skin-* .archive-header .breadcrumb a:hover, .color-skin-* .archive-header .breadcrumb a:focus,
+.color-skin-* .nav-tabs > li.active > a,
+.color-skin-* .nav-tabs > li.active > a:hover,
+.color-skin-* .nav-tabs > li.active > a:focus,
+.color-skin-* .portfolio-item .portfolio-thumb .portfolio-zoom, .color-skin-* .portfolio-item .portfolio-thumb .portfolio-link,
+.color-skin-* .portfolio-meta a:hover, .color-skin-* .portfolio-metaa:focus,
+.color-skin-* #site-info a:hover,
+.color-skin-* .brand span,
+.color-skin-* .entry-meta a:hover, .color-skin-* .entry-meta a:focus,
+.color-skin-* .entry-thumb .ima-zoom {
+  color: #16a085;
+}
+
+/* Background Color */
+.color-skin-* #masthead .navbar-default .navbar-toggle,
+.color-skin-* .adv-color,
+.color-skin-* .search-toggle,
+.color-skin-* .controls .prev, .color-skin-* .controls .next,
+.color-skin-* .cbox,
+.color-skin-* .portfolio-item .portfolio-thumb .image-overlay,
+.color-skin-* .portfolio-item .portfolio-thumb .portfolio-zoom:hover, .color-skin-* .portfolio-item .portfolio-thumb .portfolio-link:hover,
+.color-skin-* #toTop,
+.color-skin-* .tag-links a,
+.color-skin-* .sbox-inner .sbox-icon,
+.color-skin-* .portfolio-filter .nav-pills > li.active > a,
+.color-skin-* .portfolio-filter .nav-pills > li.active > a:hover,
+.color-skin-* .portfolio-filter .nav-pills > li.active > a:focus,
+.color-skin-* .pricing .price,
+.color-skin-* .error,
+.color-skin-* .pagination > .active > a, .color-skin-* .pagination > .active > span, .color-skin-* .pagination > .active > a:hover, .color-skin-* .pagination > .active > span:hover, .color-skin-* .pagination > .active > a:focus, .color-skin-* .pagination > .active > span:focus,
+.color-skin-* .fontawesome-icon-list a:hover,
+.color-skin-* .post-comments .reply-link:hover,
+.color-skin-* .entry-thumb .image-overlay,
+.color-skin-* .entry-thumb .ima-zoom:hover,
+.color-skin-* .member-thumb .image-overlay {
+    background-color: #16a085;
+}
+@media (max-width: 767px) {
+    .color-skin-* #masthead .navbar-default .navbar-nav > .active > a, .color-skin-* #masthead .navbar-default .navbar-nav > .active > a:hover, .color-skin-* #masthead .navbar-default .navbar-nav > .active > a:focus {
+        background-color: #16a085;
+    }
+}
+
+@media (min-width: 768px) {
+    .color-skin-* #masthead .dropdown-menu > li > a:hover, .color-skin-* #masthead .dropdown-menu > li > a:focus,
+    .color-skin-* #masthead .dropdown-menu > .active > a, .color-skin-* #masthead .dropdown-menu > .active > a:hover, .color-skin-* #masthead .dropdown-menu > .active > a:focus {
+        background-color: #16a085;
+    }
+}
+
+/* Others */
+.color-skin-* #masthead .navbar-default .navbar-toggle,
+.color-skin-* #masthead .navbar-default .navbar-toggle:hover, #masthead .navbar-default .navbar-toggle:focus,
+.color-skin-* .adv-color,
+.color-skin-* .adv-color:hover,
+.color-skin-* .adv-color:active,
+.color-skin-* .controls .prev, .color-skin-* .controls .next,
+.color-skin-* .portfolio-filter .nav-pills > li.active > a,
+.color-skin-* .portfolio-filter .nav-pills > li.active > a:hover,
+.color-skin-* .portfolio-filter .nav-pills > li.active > a:focus,
+.color-skin-* .pagination > .active > a, .color-skin-* .pagination > .active > span, .color-skin-* .pagination > .active > a:hover, .color-skin-* .pagination > .active > span:hover, .color-skin-* .pagination > .active > a:focus, .color-skin-* .pagination > .active > span:focus,
+.color-skin-* .form-search .form-control:focus {
+    border-color: #16a085;
+}
+.color-skin-* .tag-links a:before{
+    border-right-color: #16a085;
+}
+.color-skin-* #masthead .navbar-default .navbar-nav > .active > a, .color-skin-* #masthead .navbar-default .navbar-nav > .active > a:hover, .color-skin-* #masthead .navbar-default .navbar-nav > .active > a:focus,
+.color-skin-* #masthead .navbar-default .navbar-nav > .open > a, .color-skin-* #masthead .navbar-default .navbar-nav > .open > a:hover, .color-skin-* #masthead .navbar-default .navbar-nav > .open > a:focus {
+    border-top-color: #16a085;
+}
+@media (min-width: 768px) {
+    .color-skin-* #masthead .navbar-default .navbar-nav > li > a:hover, .color-skin-* #masthead .navbar-default .navbar-nav > li > a:focus {
+        border-top-color: #16a085;
+    }
+}
